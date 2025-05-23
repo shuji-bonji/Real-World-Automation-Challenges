@@ -1,7 +1,29 @@
 # 現実世界の自動化における課題
 
-現実世界における自動化の課題を調査してみた件🐶
+このリポジトリでは、現実社会における自動化の課題を多角的に分析し、以下の3つの観点から整理しています。
 
-- [現実世界の自動化における社会的・倫理的および実装上の課題](/social-ethical-and-implementation-challenges-of-real-world-automation.md)
-- [ホワイトカラー（デジタル環境）の自動化における技術的・社会的・倫理的課題の包括的分析](./social-and-ethical-challenges-in-digital-automation.md)
-- [物理的タスクの自動化における技術的および実践的課題の深掘り分析](./practical-challenges-in-automating-physical-tasks.md)
+## 1. 物理的タスクの自動化における技術的・実践的課題
+- ロボティクスの限界
+- センサー技術の課題
+- 実世界での適応性
+
+→ [詳細はこちら](./practical-challenges-in-automating-physical-tasks.md)
+
+## 2. デジタル環境における社会的・倫理的課題
+- プライバシーの侵害
+- 雇用への影響
+- バイアスの問題
+
+→ [詳細はこちら](./social-and-ethical-challenges-in-digital-automation.md)
+
+## 3. 自動化全般に関する社会的・倫理的・実装上の課題
+- 法的枠組みの未整備
+- 倫理的ガイドラインの欠如
+- 実装における課題とリスク
+
+→ [詳細はこちら](./social-ethical-and-implementation-challenges-of-real-world-automation.md)
+
+## AGIの影響について
+
+AGI（汎用人工知能）の進展により、これらの課題の一部は新たな形で再定義される可能性があります。  
+技術の進化が社会や倫理に与える影響についても継続的に検討していく必要があります。
